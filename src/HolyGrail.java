@@ -30,7 +30,7 @@ public class HolyGrail {
         //System.out.println(movie + " is a terrible movie! I hate it.");
         System.out.println("King Arthur says, \"You have to know these things when you're a\n" +
                 "king, you know.\"");
-        System.out.println("Your name is: " + name + "your mom");
+        System.out.println("Your name is: " + name);
         System.out.println("Your quest is: " + quest);
         System.out.println("Your Favorite color is: " + color);
     }
